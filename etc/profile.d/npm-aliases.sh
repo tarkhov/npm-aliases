@@ -1,9 +1,14 @@
 alias n='npm'
-alias ni='npm install'
-alias nid='npm install --save-dev'
-alias nig="npm install -g"
-alias nu='npm uninstall'
+alias nh='npm help'
+alias nid='npm i --save-dev'
+alias nig="npm i -g"
+alias nin="npm init"
+alias nli="npm login"
+alias nlo="npm logout"
+alias np="npm publish"
+alias npc="npm pack"
 alias nr='npm run'
+alias nug="npm up -g"
 
 # Vue, Nuxt, React, Next
 alias nrb='npm run build'
