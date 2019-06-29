@@ -13,8 +13,9 @@ Npm command aliases.
    3. [Vue](#vue)
    4. [Nuxt](#nuxt)
    5. [Next](#next)
-4. [Author](#author)
-5. [License](#license)
+4. [Removing](#removing)
+5. [Author](#author)
+6. [License](#license)
 
 ## Compatibility
 
@@ -84,6 +85,14 @@ Alias | Command
 `nrb` | `npm run build`
 `ns` | `npm start`
 `nt` | `npm test`
+
+## Removing
+
+To completely remove the package run the command:
+
+```bash
+sudo apt remove --purge npm-aliases
+```
 
 ## Author
 
