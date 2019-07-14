@@ -1,3 +1,9 @@
+npm-aliases (0.1.1-1) bionic; urgency=medium
+
+  * Second release
+
+ -- Alexander Tarkhov <agtuks@gmail.com>  Sat, 13 Jul 2019 21:55:10 +0300
+
 npm-aliases (0.1.0-1) bionic; urgency=medium
 
   * Initial release
