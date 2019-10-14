@@ -21,7 +21,7 @@ alias nrt='npm run test'
 # Nuxt
 alias nrd='npm run dev'
 alias nrg='npm run generate'
-alias nrst='npm run start'
+alias nrs='npm run start'
 
 # Next
 alias ns='npm start'
