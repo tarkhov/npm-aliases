@@ -77,7 +77,7 @@ Alias | Command
 `nrb` | `npm run build`
 `nrd` | `npm run dev`
 `nrg` | `npm run generate`
-`nrst` | `npm run start`
+`nrs` | `npm run start`
 
 ### Next
 Alias | Command
@@ -85,6 +85,15 @@ Alias | Command
 `nrb` | `npm run build`
 `ns` | `npm start`
 `nt` | `npm test`
+
+### Laravel Mix
+Alias | Command
+------- | -------
+`nrh` | `npm run hot`
+`nrp` | `npm run production`
+`nrw` | `npm run watch`
+`nrwp` | `npm run watch-poll`
+
 
 ## Removing
 
@@ -98,10 +107,10 @@ sudo apt remove --purge npm-aliases
 
 **Alexander Tarkhov**
 
-* [Facebook](https://www.facebook.com/alex.tarkhov)
 * [Twitter](https://twitter.com/alextarkhov)
+* [Facebook](https://www.facebook.com/alex.tarkhov)
 * [Medium](https://medium.com/@tarkhov)
-* [Product Hunt](https://www.producthunt.com/@tarkhov)
+* [LinkedIn](https://www.linkedin.com/in/tarkhov/)
 
 ## License
 

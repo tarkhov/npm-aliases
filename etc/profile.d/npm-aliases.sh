@@ -26,3 +26,9 @@ alias nrs='npm run start'
 # Next
 alias ns='npm start'
 alias nt='npm test'
+
+# Laravel Mix
+alias nrh='npm run hot'
+alias nrp='npm run production'
+alias nrw='npm run watch'
+alias nrwp='npm run watch-poll'
