@@ -1,4 +1,5 @@
 alias n='npm'
+alias nb='npm build'
 alias nh='npm help'
 alias ni="npm install"
 alias nid='npm install --save-dev'
