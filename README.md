@@ -43,6 +43,10 @@ Alias | Command
 ------- | -------
 `n` | `npm`
 `nb` | `npm build`
+`nc` | `npm cache`
+`nca` | `npm cache add`
+`ncc` | `npm cache clean`
+`ncv` | `npm cache verify`
 `nh` | `npm help`
 `ni` | `npm install`
 `nid` | `npm install --save-dev`

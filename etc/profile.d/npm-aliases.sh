@@ -1,5 +1,9 @@
 alias n='npm'
 alias nb='npm build'
+alias nc='npm cache'
+alias nca='npm cache add'
+alias ncc='npm cache clean'
+alias ncv='npm cache verify'
 alias nh='npm help'
 alias ni="npm install"
 alias nid='npm install --save-dev'
